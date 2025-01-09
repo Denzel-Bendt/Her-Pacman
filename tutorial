@@ -1,0 +1,9 @@
+# getting base image Ubuntu
+FROM ubuntu
+
+# MAINTAINER Denzel Bendt <s1136580@student.windesheim.nl>
+
+RUN apt-get update
+
+CMD ["echo", "Ginga biri, dat na biri!!"]
+

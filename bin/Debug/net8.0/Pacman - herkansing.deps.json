@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pacman - herkansing/1.0.0": {
+        "runtime": {
+          "Pacman - herkansing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pacman - herkansing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

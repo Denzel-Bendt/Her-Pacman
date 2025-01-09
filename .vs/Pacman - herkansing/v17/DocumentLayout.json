@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\Position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Pacman.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\Pacman.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\OP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\OP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\MobManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\MobManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Mob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\Mob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\HighScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\HighScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\High.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\High.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\Enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Pacman.domain\\Board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\Program.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Program.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:03.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Position.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\Position.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Position.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:03.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Player.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\Player.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Player.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pacman.domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Pacman.domain.csproj",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\Pacman.domain.csproj",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Pacman.domain.csproj",
+              "RelativeToolTip": "src\\Pacman.domain\\Pacman.domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T19:09:03.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OP.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\OP.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\OP.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\OP.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\OP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:01.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MobManager.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\MobManager.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\MobManager.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\MobManager.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\MobManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:01.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mob.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Mob.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\Mob.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Mob.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\Mob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:01.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Menu.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\Menu.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Menu.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:01.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HighScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\HighScoreManager.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\HighScoreManager.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\HighScoreManager.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\HighScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:01.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "High.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\High.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\High.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\High.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\High.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:01.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Game.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\Game.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Game.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:01.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Enum.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\Enum.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Enum.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:01.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Class1.cs",
+              "RelativeToolTip": "src\\Pacman.domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:01.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Board.cs",
+              "RelativeDocumentMoniker": "src\\Pacman.domain\\Board.cs",
+              "ToolTip": "C:\\Users\\Denzel\\Desktop\\Pacman - herkansing\\src\\Pacman.domain\\Board.cs*",
+              "RelativeToolTip": "src\\Pacman.domain\\Board.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:09:00.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

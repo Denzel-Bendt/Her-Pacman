@@ -1,0 +1,15 @@
+C:\Users\Denzel\Desktop\Pacman - herkansing\bin\Debug\net8.0\Pacman - herkansing.exe
+C:\Users\Denzel\Desktop\Pacman - herkansing\bin\Debug\net8.0\Pacman - herkansing.deps.json
+C:\Users\Denzel\Desktop\Pacman - herkansing\bin\Debug\net8.0\Pacman - herkansing.runtimeconfig.json
+C:\Users\Denzel\Desktop\Pacman - herkansing\bin\Debug\net8.0\Pacman - herkansing.dll
+C:\Users\Denzel\Desktop\Pacman - herkansing\bin\Debug\net8.0\Pacman - herkansing.pdb
+C:\Users\Denzel\Desktop\Pacman - herkansing\obj\Debug\net8.0\Pacman - herkansing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denzel\Desktop\Pacman - herkansing\obj\Debug\net8.0\Pacman - herkansing.AssemblyInfoInputs.cache
+C:\Users\Denzel\Desktop\Pacman - herkansing\obj\Debug\net8.0\Pacman - herkansing.AssemblyInfo.cs
+C:\Users\Denzel\Desktop\Pacman - herkansing\obj\Debug\net8.0\Pacman - herkansing.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Desktop\Pacman - herkansing\obj\Debug\net8.0\Pacman - herkansing.sourcelink.json
+C:\Users\Denzel\Desktop\Pacman - herkansing\obj\Debug\net8.0\Pacman - herkansing.dll
+C:\Users\Denzel\Desktop\Pacman - herkansing\obj\Debug\net8.0\refint\Pacman - herkansing.dll
+C:\Users\Denzel\Desktop\Pacman - herkansing\obj\Debug\net8.0\Pacman - herkansing.pdb
+C:\Users\Denzel\Desktop\Pacman - herkansing\obj\Debug\net8.0\Pacman - herkansing.genruntimeconfig.cache
+C:\Users\Denzel\Desktop\Pacman - herkansing\obj\Debug\net8.0\ref\Pacman - herkansing.dll
